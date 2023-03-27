@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",     
+    "lib": ["ES2016"],          
+    "module": "commonjs", 
+    "moduleResolution": "node", 
+    "typeRoots": [
+      "./src/types"
+     ] ,                      
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true,                         
+  },
+  "include": ["src/**/*"]
+}
