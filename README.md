@@ -1,6 +1,6 @@
-API Buzzvel
+API User test
 
-A API Buzzvel é uma API RESTful que permite o acesso a dados sobre usuários.
+A API USER é uma API RESTful que permite o acesso a dados sobre usuários.
 Endpoints
 
 A API possui os seguintes endpoints disponíveis:
